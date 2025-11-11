@@ -1,0 +1,3954 @@
+[
+    {
+        "f1": 0.8,
+        "prevalence": 0.001,
+        "balanced": {
+            "matrix": {
+                "TP": 80,
+                "FP": 20,
+                "FN": 20,
+                "TN": 99880
+            },
+            "score": {
+                "kappa_k": 0.8,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 67,
+                "FP": 0,
+                "FN": 33,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 0.802,
+                "kappa_enum": "substantial",
+                "f1": 0.802,
+                "ppv": 1.0,
+                "recall": 0.67,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 100,
+                "FP": 50,
+                "FN": 0,
+                "TN": 99850
+            },
+            "score": {
+                "kappa_k": 0.8,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.999
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.01,
+        "balanced": {
+            "matrix": {
+                "TP": 800,
+                "FP": 200,
+                "FN": 200,
+                "TN": 98800
+            },
+            "score": {
+                "kappa_k": 0.798,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.998
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 667,
+                "FP": 0,
+                "FN": 333,
+                "TN": 99000
+            },
+            "score": {
+                "kappa_k": 0.799,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 1000,
+                "FP": 500,
+                "FN": 0,
+                "TN": 98500
+            },
+            "score": {
+                "kappa_k": 0.798,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.995
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.05,
+        "balanced": {
+            "matrix": {
+                "TP": 4000,
+                "FP": 1000,
+                "FN": 1000,
+                "TN": 94000
+            },
+            "score": {
+                "kappa_k": 0.789,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.989
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 3333,
+                "FP": 0,
+                "FN": 1667,
+                "TN": 95000
+            },
+            "score": {
+                "kappa_k": 0.792,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 5000,
+                "FP": 2500,
+                "FN": 0,
+                "TN": 92500
+            },
+            "score": {
+                "kappa_k": 0.787,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.974
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.1,
+        "balanced": {
+            "matrix": {
+                "TP": 8000,
+                "FP": 2000,
+                "FN": 2000,
+                "TN": 88000
+            },
+            "score": {
+                "kappa_k": 0.778,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.978
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 6667,
+                "FP": 0,
+                "FN": 3333,
+                "TN": 90000
+            },
+            "score": {
+                "kappa_k": 0.783,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 10000,
+                "FP": 5000,
+                "FN": 0,
+                "TN": 85000
+            },
+            "score": {
+                "kappa_k": 0.773,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.944
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.2,
+        "balanced": {
+            "matrix": {
+                "TP": 16000,
+                "FP": 4000,
+                "FN": 4000,
+                "TN": 76000
+            },
+            "score": {
+                "kappa_k": 0.75,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.95
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 13333,
+                "FP": 0,
+                "FN": 6667,
+                "TN": 80000
+            },
+            "score": {
+                "kappa_k": 0.762,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 10000,
+                "FN": 0,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.737,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.875
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.3,
+        "balanced": {
+            "matrix": {
+                "TP": 24000,
+                "FP": 6000,
+                "FN": 6000,
+                "TN": 64000
+            },
+            "score": {
+                "kappa_k": 0.714,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.914
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 0,
+                "FN": 10000,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.737,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 30000,
+                "FP": 15000,
+                "FN": 0,
+                "TN": 55000
+            },
+            "score": {
+                "kappa_k": 0.687,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.786
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.4,
+        "balanced": {
+            "matrix": {
+                "TP": 32000,
+                "FP": 8000,
+                "FN": 8000,
+                "TN": 52000
+            },
+            "score": {
+                "kappa_k": 0.667,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.867
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 26667,
+                "FP": 0,
+                "FN": 13333,
+                "TN": 60000
+            },
+            "score": {
+                "kappa_k": 0.706,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 20000,
+                "FN": 0,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.615,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.667
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.5,
+        "balanced": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 10000,
+                "FN": 10000,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.6,
+                "kappa_enum": "moderate",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.8
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 33333,
+                "FP": 0,
+                "FN": 16667,
+                "TN": 50000
+            },
+            "score": {
+                "kappa_k": 0.667,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 50000,
+                "FP": 25000,
+                "FN": 0,
+                "TN": 25000
+            },
+            "score": {
+                "kappa_k": 0.5,
+                "kappa_enum": "moderate",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.5
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.6,
+        "balanced": {
+            "matrix": {
+                "TP": 48000,
+                "FP": 12000,
+                "FN": 12000,
+                "TN": 28000
+            },
+            "score": {
+                "kappa_k": 0.5,
+                "kappa_enum": "moderate",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.7
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 0,
+                "FN": 20000,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.615,
+                "kappa_enum": "substantial",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 60000,
+                "FP": 30000,
+                "FN": 0,
+                "TN": 10000
+            },
+            "score": {
+                "kappa_k": 0.286,
+                "kappa_enum": "fair",
+                "f1": 0.8,
+                "ppv": 0.667,
+                "recall": 1.0,
+                "specificity": 0.25
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.7,
+        "balanced": {
+            "matrix": {
+                "TP": 56000,
+                "FP": 14000,
+                "FN": 14000,
+                "TN": 16000
+            },
+            "score": {
+                "kappa_k": 0.333,
+                "kappa_enum": "fair",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.533
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 46667,
+                "FP": 0,
+                "FN": 23333,
+                "TN": 30000
+            },
+            "score": {
+                "kappa_k": 0.545,
+                "kappa_enum": "moderate",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 66667,
+                "FP": 30000,
+                "FN": 3333,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.064,
+                "kappa_enum": "no",
+                "f1": 0.8,
+                "ppv": 0.69,
+                "recall": 0.952,
+                "specificity": 0.0
+            }
+        }
+    },
+    {
+        "f1": 0.8,
+        "prevalence": 0.8,
+        "balanced": {
+            "matrix": {
+                "TP": 64000,
+                "FP": 16000,
+                "FN": 16000,
+                "TN": 4000
+            },
+            "score": {
+                "kappa_k": -0.0,
+                "kappa_enum": "no",
+                "f1": 0.8,
+                "ppv": 0.8,
+                "recall": 0.8,
+                "specificity": 0.2
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 53333,
+                "FP": 0,
+                "FN": 26667,
+                "TN": 20000
+            },
+            "score": {
+                "kappa_k": 0.444,
+                "kappa_enum": "moderate",
+                "f1": 0.8,
+                "ppv": 1.0,
+                "recall": 0.667,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 66667,
+                "FP": 20000,
+                "FN": 13333,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.19,
+                "kappa_enum": "no",
+                "f1": 0.8,
+                "ppv": 0.769,
+                "recall": 0.833,
+                "specificity": 0.0
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.001,
+        "balanced": {
+            "matrix": {
+                "TP": 85,
+                "FP": 15,
+                "FN": 15,
+                "TN": 99885
+            },
+            "score": {
+                "kappa_k": 0.85,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 74,
+                "FP": 0,
+                "FN": 26,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 0.85,
+                "kappa_enum": "near_perfect",
+                "f1": 0.851,
+                "ppv": 1.0,
+                "recall": 0.74,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 100,
+                "FP": 35,
+                "FN": 0,
+                "TN": 99865
+            },
+            "score": {
+                "kappa_k": 0.851,
+                "kappa_enum": "near_perfect",
+                "f1": 0.851,
+                "ppv": 0.741,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.01,
+        "balanced": {
+            "matrix": {
+                "TP": 850,
+                "FP": 150,
+                "FN": 150,
+                "TN": 98850
+            },
+            "score": {
+                "kappa_k": 0.848,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.998
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 739,
+                "FP": 0,
+                "FN": 261,
+                "TN": 99000
+            },
+            "score": {
+                "kappa_k": 0.849,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 1000,
+                "FP": 353,
+                "FN": 0,
+                "TN": 98647
+            },
+            "score": {
+                "kappa_k": 0.848,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.996
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.05,
+        "balanced": {
+            "matrix": {
+                "TP": 4250,
+                "FP": 750,
+                "FN": 750,
+                "TN": 94250
+            },
+            "score": {
+                "kappa_k": 0.842,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.992
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 3696,
+                "FP": 0,
+                "FN": 1304,
+                "TN": 95000
+            },
+            "score": {
+                "kappa_k": 0.843,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 5000,
+                "FP": 1765,
+                "FN": 0,
+                "TN": 93235
+            },
+            "score": {
+                "kappa_k": 0.841,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.981
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.1,
+        "balanced": {
+            "matrix": {
+                "TP": 8500,
+                "FP": 1500,
+                "FN": 1500,
+                "TN": 88500
+            },
+            "score": {
+                "kappa_k": 0.833,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.983
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 7391,
+                "FP": 0,
+                "FN": 2609,
+                "TN": 90000
+            },
+            "score": {
+                "kappa_k": 0.836,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 10000,
+                "FP": 3529,
+                "FN": 0,
+                "TN": 86471
+            },
+            "score": {
+                "kappa_k": 0.831,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.961
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.2,
+        "balanced": {
+            "matrix": {
+                "TP": 17000,
+                "FP": 3000,
+                "FN": 3000,
+                "TN": 77000
+            },
+            "score": {
+                "kappa_k": 0.812,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.963
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 14783,
+                "FP": 0,
+                "FN": 5217,
+                "TN": 80000
+            },
+            "score": {
+                "kappa_k": 0.819,
+                "kappa_enum": "near_perfect",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 7059,
+                "FN": 0,
+                "TN": 72941
+            },
+            "score": {
+                "kappa_k": 0.805,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.912
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.3,
+        "balanced": {
+            "matrix": {
+                "TP": 25500,
+                "FP": 4500,
+                "FN": 4500,
+                "TN": 65500
+            },
+            "score": {
+                "kappa_k": 0.786,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.936
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 22174,
+                "FP": 0,
+                "FN": 7826,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.799,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 30000,
+                "FP": 10588,
+                "FN": 0,
+                "TN": 59412
+            },
+            "score": {
+                "kappa_k": 0.771,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.849
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.4,
+        "balanced": {
+            "matrix": {
+                "TP": 34000,
+                "FP": 6000,
+                "FN": 6000,
+                "TN": 54000
+            },
+            "score": {
+                "kappa_k": 0.75,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.9
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 29565,
+                "FP": 0,
+                "FN": 10435,
+                "TN": 60000
+            },
+            "score": {
+                "kappa_k": 0.773,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 14118,
+                "FN": 0,
+                "TN": 45882
+            },
+            "score": {
+                "kappa_k": 0.722,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.765
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.5,
+        "balanced": {
+            "matrix": {
+                "TP": 42500,
+                "FP": 7500,
+                "FN": 7500,
+                "TN": 42500
+            },
+            "score": {
+                "kappa_k": 0.7,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.85
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 36957,
+                "FP": 0,
+                "FN": 13043,
+                "TN": 50000
+            },
+            "score": {
+                "kappa_k": 0.739,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 50000,
+                "FP": 17647,
+                "FN": 0,
+                "TN": 32353
+            },
+            "score": {
+                "kappa_k": 0.647,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.647
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.6,
+        "balanced": {
+            "matrix": {
+                "TP": 51000,
+                "FP": 9000,
+                "FN": 9000,
+                "TN": 31000
+            },
+            "score": {
+                "kappa_k": 0.625,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.775
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 44348,
+                "FP": 0,
+                "FN": 15652,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.694,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 60000,
+                "FP": 21176,
+                "FN": 0,
+                "TN": 18824
+            },
+            "score": {
+                "kappa_k": 0.516,
+                "kappa_enum": "moderate",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.471
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.7,
+        "balanced": {
+            "matrix": {
+                "TP": 59500,
+                "FP": 10500,
+                "FN": 10500,
+                "TN": 19500
+            },
+            "score": {
+                "kappa_k": 0.5,
+                "kappa_enum": "moderate",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.65
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 51739,
+                "FP": 0,
+                "FN": 18261,
+                "TN": 30000
+            },
+            "score": {
+                "kappa_k": 0.63,
+                "kappa_enum": "substantial",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 70000,
+                "FP": 24706,
+                "FN": 0,
+                "TN": 5294
+            },
+            "score": {
+                "kappa_k": 0.231,
+                "kappa_enum": "fair",
+                "f1": 0.85,
+                "ppv": 0.739,
+                "recall": 1.0,
+                "specificity": 0.176
+            }
+        }
+    },
+    {
+        "f1": 0.85,
+        "prevalence": 0.8,
+        "balanced": {
+            "matrix": {
+                "TP": 68000,
+                "FP": 12000,
+                "FN": 12000,
+                "TN": 8000
+            },
+            "score": {
+                "kappa_k": 0.25,
+                "kappa_enum": "fair",
+                "f1": 0.85,
+                "ppv": 0.85,
+                "recall": 0.85,
+                "specificity": 0.4
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 59130,
+                "FP": 0,
+                "FN": 20870,
+                "TN": 20000
+            },
+            "score": {
+                "kappa_k": 0.531,
+                "kappa_enum": "moderate",
+                "f1": 0.85,
+                "ppv": 1.0,
+                "recall": 0.739,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 73913,
+                "FP": 20000,
+                "FN": 6087,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.103,
+                "kappa_enum": "no",
+                "f1": 0.85,
+                "ppv": 0.787,
+                "recall": 0.924,
+                "specificity": 0.0
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.001,
+        "balanced": {
+            "matrix": {
+                "TP": 90,
+                "FP": 10,
+                "FN": 10,
+                "TN": 99890
+            },
+            "score": {
+                "kappa_k": 0.9,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 82,
+                "FP": 0,
+                "FN": 18,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 0.901,
+                "kappa_enum": "near_perfect",
+                "f1": 0.901,
+                "ppv": 1.0,
+                "recall": 0.82,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 100,
+                "FP": 22,
+                "FN": 0,
+                "TN": 99878
+            },
+            "score": {
+                "kappa_k": 0.901,
+                "kappa_enum": "near_perfect",
+                "f1": 0.901,
+                "ppv": 0.82,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.01,
+        "balanced": {
+            "matrix": {
+                "TP": 900,
+                "FP": 100,
+                "FN": 100,
+                "TN": 98900
+            },
+            "score": {
+                "kappa_k": 0.899,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 818,
+                "FP": 0,
+                "FN": 182,
+                "TN": 99000
+            },
+            "score": {
+                "kappa_k": 0.899,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 1000,
+                "FP": 222,
+                "FN": 0,
+                "TN": 98778
+            },
+            "score": {
+                "kappa_k": 0.899,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.998
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.05,
+        "balanced": {
+            "matrix": {
+                "TP": 4500,
+                "FP": 500,
+                "FN": 500,
+                "TN": 94500
+            },
+            "score": {
+                "kappa_k": 0.895,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.995
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 4091,
+                "FP": 0,
+                "FN": 909,
+                "TN": 95000
+            },
+            "score": {
+                "kappa_k": 0.895,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 5000,
+                "FP": 1111,
+                "FN": 0,
+                "TN": 93889
+            },
+            "score": {
+                "kappa_k": 0.894,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.988
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.1,
+        "balanced": {
+            "matrix": {
+                "TP": 9000,
+                "FP": 1000,
+                "FN": 1000,
+                "TN": 89000
+            },
+            "score": {
+                "kappa_k": 0.889,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.989
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 8182,
+                "FP": 0,
+                "FN": 1818,
+                "TN": 90000
+            },
+            "score": {
+                "kappa_k": 0.89,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 10000,
+                "FP": 2222,
+                "FN": 0,
+                "TN": 87778
+            },
+            "score": {
+                "kappa_k": 0.888,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.975
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.2,
+        "balanced": {
+            "matrix": {
+                "TP": 18000,
+                "FP": 2000,
+                "FN": 2000,
+                "TN": 78000
+            },
+            "score": {
+                "kappa_k": 0.875,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.975
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 16364,
+                "FP": 0,
+                "FN": 3636,
+                "TN": 80000
+            },
+            "score": {
+                "kappa_k": 0.878,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 4444,
+                "FN": 0,
+                "TN": 75556
+            },
+            "score": {
+                "kappa_k": 0.872,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.944
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.3,
+        "balanced": {
+            "matrix": {
+                "TP": 27000,
+                "FP": 3000,
+                "FN": 3000,
+                "TN": 67000
+            },
+            "score": {
+                "kappa_k": 0.857,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.957
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 24545,
+                "FP": 0,
+                "FN": 5455,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.863,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 30000,
+                "FP": 6667,
+                "FN": 0,
+                "TN": 63333
+            },
+            "score": {
+                "kappa_k": 0.851,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.905
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.4,
+        "balanced": {
+            "matrix": {
+                "TP": 36000,
+                "FP": 4000,
+                "FN": 4000,
+                "TN": 56000
+            },
+            "score": {
+                "kappa_k": 0.833,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.933
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 32727,
+                "FP": 0,
+                "FN": 7273,
+                "TN": 60000
+            },
+            "score": {
+                "kappa_k": 0.844,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 8889,
+                "FN": 0,
+                "TN": 51111
+            },
+            "score": {
+                "kappa_k": 0.821,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.852
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.5,
+        "balanced": {
+            "matrix": {
+                "TP": 45000,
+                "FP": 5000,
+                "FN": 5000,
+                "TN": 45000
+            },
+            "score": {
+                "kappa_k": 0.8,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.9
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 40909,
+                "FP": 0,
+                "FN": 9091,
+                "TN": 50000
+            },
+            "score": {
+                "kappa_k": 0.818,
+                "kappa_enum": "near_perfect",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 50000,
+                "FP": 11111,
+                "FN": 0,
+                "TN": 38889
+            },
+            "score": {
+                "kappa_k": 0.778,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.778
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.6,
+        "balanced": {
+            "matrix": {
+                "TP": 54000,
+                "FP": 6000,
+                "FN": 6000,
+                "TN": 34000
+            },
+            "score": {
+                "kappa_k": 0.75,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.85
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 49091,
+                "FP": 0,
+                "FN": 10909,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.783,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 60000,
+                "FP": 13333,
+                "FN": 0,
+                "TN": 26667
+            },
+            "score": {
+                "kappa_k": 0.706,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.667
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.7,
+        "balanced": {
+            "matrix": {
+                "TP": 63000,
+                "FP": 7000,
+                "FN": 7000,
+                "TN": 23000
+            },
+            "score": {
+                "kappa_k": 0.667,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.767
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 57273,
+                "FP": 0,
+                "FN": 12727,
+                "TN": 30000
+            },
+            "score": {
+                "kappa_k": 0.73,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 70000,
+                "FP": 15556,
+                "FN": 0,
+                "TN": 14444
+            },
+            "score": {
+                "kappa_k": 0.565,
+                "kappa_enum": "moderate",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.481
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.8,
+        "balanced": {
+            "matrix": {
+                "TP": 72000,
+                "FP": 8000,
+                "FN": 8000,
+                "TN": 12000
+            },
+            "score": {
+                "kappa_k": 0.5,
+                "kappa_enum": "moderate",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.6
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 65455,
+                "FP": 0,
+                "FN": 14545,
+                "TN": 20000
+            },
+            "score": {
+                "kappa_k": 0.643,
+                "kappa_enum": "substantial",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 80000,
+                "FP": 17778,
+                "FN": 0,
+                "TN": 2222
+            },
+            "score": {
+                "kappa_k": 0.167,
+                "kappa_enum": "slight",
+                "f1": 0.9,
+                "ppv": 0.818,
+                "recall": 1.0,
+                "specificity": 0.111
+            }
+        }
+    },
+    {
+        "f1": 0.9,
+        "prevalence": 0.9,
+        "balanced": {
+            "matrix": {
+                "TP": 81000,
+                "FP": 9000,
+                "FN": 9000,
+                "TN": 1000
+            },
+            "score": {
+                "kappa_k": -0.0,
+                "kappa_enum": "no",
+                "f1": 0.9,
+                "ppv": 0.9,
+                "recall": 0.9,
+                "specificity": 0.1
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 73636,
+                "FP": 0,
+                "FN": 16364,
+                "TN": 10000
+            },
+            "score": {
+                "kappa_k": 0.474,
+                "kappa_enum": "moderate",
+                "f1": 0.9,
+                "ppv": 1.0,
+                "recall": 0.818,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 81818,
+                "FP": 10000,
+                "FN": 8182,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.099,
+                "kappa_enum": "no",
+                "f1": 0.9,
+                "ppv": 0.891,
+                "recall": 0.909,
+                "specificity": 0.0
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.001,
+        "balanced": {
+            "matrix": {
+                "TP": 95,
+                "FP": 5,
+                "FN": 5,
+                "TN": 99895
+            },
+            "score": {
+                "kappa_k": 0.95,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 90,
+                "FP": 0,
+                "FN": 10,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 0.947,
+                "kappa_enum": "near_perfect",
+                "f1": 0.947,
+                "ppv": 1.0,
+                "recall": 0.9,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 100,
+                "FP": 11,
+                "FN": 0,
+                "TN": 99889
+            },
+            "score": {
+                "kappa_k": 0.948,
+                "kappa_enum": "near_perfect",
+                "f1": 0.948,
+                "ppv": 0.901,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.01,
+        "balanced": {
+            "matrix": {
+                "TP": 950,
+                "FP": 50,
+                "FN": 50,
+                "TN": 98950
+            },
+            "score": {
+                "kappa_k": 0.949,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 905,
+                "FP": 0,
+                "FN": 95,
+                "TN": 99000
+            },
+            "score": {
+                "kappa_k": 0.95,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 1000,
+                "FP": 105,
+                "FN": 0,
+                "TN": 98895
+            },
+            "score": {
+                "kappa_k": 0.95,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.999
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.05,
+        "balanced": {
+            "matrix": {
+                "TP": 4750,
+                "FP": 250,
+                "FN": 250,
+                "TN": 94750
+            },
+            "score": {
+                "kappa_k": 0.947,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.997
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 4524,
+                "FP": 0,
+                "FN": 476,
+                "TN": 95000
+            },
+            "score": {
+                "kappa_k": 0.948,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 5000,
+                "FP": 526,
+                "FN": 0,
+                "TN": 94474
+            },
+            "score": {
+                "kappa_k": 0.947,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.994
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.1,
+        "balanced": {
+            "matrix": {
+                "TP": 9500,
+                "FP": 500,
+                "FN": 500,
+                "TN": 89500
+            },
+            "score": {
+                "kappa_k": 0.944,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.994
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 9048,
+                "FP": 0,
+                "FN": 952,
+                "TN": 90000
+            },
+            "score": {
+                "kappa_k": 0.945,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 10000,
+                "FP": 1053,
+                "FN": 0,
+                "TN": 88947
+            },
+            "score": {
+                "kappa_k": 0.944,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.988
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.2,
+        "balanced": {
+            "matrix": {
+                "TP": 19000,
+                "FP": 1000,
+                "FN": 1000,
+                "TN": 79000
+            },
+            "score": {
+                "kappa_k": 0.937,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.988
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 18095,
+                "FP": 0,
+                "FN": 1905,
+                "TN": 80000
+            },
+            "score": {
+                "kappa_k": 0.938,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 2105,
+                "FN": 0,
+                "TN": 77895
+            },
+            "score": {
+                "kappa_k": 0.937,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.974
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.3,
+        "balanced": {
+            "matrix": {
+                "TP": 28500,
+                "FP": 1500,
+                "FN": 1500,
+                "TN": 68500
+            },
+            "score": {
+                "kappa_k": 0.929,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.979
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 27143,
+                "FP": 0,
+                "FN": 2857,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.93,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 30000,
+                "FP": 3158,
+                "FN": 0,
+                "TN": 66842
+            },
+            "score": {
+                "kappa_k": 0.927,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.955
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.4,
+        "balanced": {
+            "matrix": {
+                "TP": 38000,
+                "FP": 2000,
+                "FN": 2000,
+                "TN": 58000
+            },
+            "score": {
+                "kappa_k": 0.917,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.967
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 36190,
+                "FP": 0,
+                "FN": 3810,
+                "TN": 60000
+            },
+            "score": {
+                "kappa_k": 0.919,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 4211,
+                "FN": 0,
+                "TN": 55789
+            },
+            "score": {
+                "kappa_k": 0.914,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.93
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.5,
+        "balanced": {
+            "matrix": {
+                "TP": 47500,
+                "FP": 2500,
+                "FN": 2500,
+                "TN": 47500
+            },
+            "score": {
+                "kappa_k": 0.9,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.95
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 45238,
+                "FP": 0,
+                "FN": 4762,
+                "TN": 50000
+            },
+            "score": {
+                "kappa_k": 0.905,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 50000,
+                "FP": 5263,
+                "FN": 0,
+                "TN": 44737
+            },
+            "score": {
+                "kappa_k": 0.895,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.895
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.6,
+        "balanced": {
+            "matrix": {
+                "TP": 57000,
+                "FP": 3000,
+                "FN": 3000,
+                "TN": 37000
+            },
+            "score": {
+                "kappa_k": 0.875,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.925
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 54286,
+                "FP": 0,
+                "FN": 5714,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.884,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 60000,
+                "FP": 6316,
+                "FN": 0,
+                "TN": 33684
+            },
+            "score": {
+                "kappa_k": 0.865,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.842
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.7,
+        "balanced": {
+            "matrix": {
+                "TP": 66500,
+                "FP": 3500,
+                "FN": 3500,
+                "TN": 26500
+            },
+            "score": {
+                "kappa_k": 0.833,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.883
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 63333,
+                "FP": 0,
+                "FN": 6667,
+                "TN": 30000
+            },
+            "score": {
+                "kappa_k": 0.851,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 70000,
+                "FP": 7368,
+                "FN": 0,
+                "TN": 22632
+            },
+            "score": {
+                "kappa_k": 0.811,
+                "kappa_enum": "near_perfect",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.754
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.8,
+        "balanced": {
+            "matrix": {
+                "TP": 76000,
+                "FP": 4000,
+                "FN": 4000,
+                "TN": 16000
+            },
+            "score": {
+                "kappa_k": 0.75,
+                "kappa_enum": "substantial",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.8
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 72381,
+                "FP": 0,
+                "FN": 7619,
+                "TN": 20000
+            },
+            "score": {
+                "kappa_k": 0.792,
+                "kappa_enum": "substantial",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 80000,
+                "FP": 8421,
+                "FN": 0,
+                "TN": 11579
+            },
+            "score": {
+                "kappa_k": 0.688,
+                "kappa_enum": "substantial",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.579
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.9,
+        "balanced": {
+            "matrix": {
+                "TP": 85500,
+                "FP": 4500,
+                "FN": 4500,
+                "TN": 5500
+            },
+            "score": {
+                "kappa_k": 0.5,
+                "kappa_enum": "moderate",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.55
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 81429,
+                "FP": 0,
+                "FN": 8571,
+                "TN": 10000
+            },
+            "score": {
+                "kappa_k": 0.655,
+                "kappa_enum": "substantial",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 90000,
+                "FP": 9474,
+                "FN": 0,
+                "TN": 526
+            },
+            "score": {
+                "kappa_k": 0.091,
+                "kappa_enum": "no",
+                "f1": 0.95,
+                "ppv": 0.905,
+                "recall": 1.0,
+                "specificity": 0.053
+            }
+        }
+    },
+    {
+        "f1": 0.95,
+        "prevalence": 0.95,
+        "balanced": {
+            "matrix": {
+                "TP": 90250,
+                "FP": 4750,
+                "FN": 4750,
+                "TN": 250
+            },
+            "score": {
+                "kappa_k": 0.0,
+                "kappa_enum": "no",
+                "f1": 0.95,
+                "ppv": 0.95,
+                "recall": 0.95,
+                "specificity": 0.05
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 85952,
+                "FP": 0,
+                "FN": 9048,
+                "TN": 5000
+            },
+            "score": {
+                "kappa_k": 0.487,
+                "kappa_enum": "moderate",
+                "f1": 0.95,
+                "ppv": 1.0,
+                "recall": 0.905,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 90476,
+                "FP": 5000,
+                "FN": 4524,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.05,
+                "kappa_enum": "no",
+                "f1": 0.95,
+                "ppv": 0.948,
+                "recall": 0.952,
+                "specificity": 0.0
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.001,
+        "balanced": {
+            "matrix": {
+                "TP": 99,
+                "FP": 1,
+                "FN": 1,
+                "TN": 99899
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 98,
+                "FP": 0,
+                "FN": 2,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 100,
+                "FP": 2,
+                "FN": 0,
+                "TN": 99898
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.01,
+        "balanced": {
+            "matrix": {
+                "TP": 990,
+                "FP": 10,
+                "FN": 10,
+                "TN": 98990
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 980,
+                "FP": 0,
+                "FN": 20,
+                "TN": 99000
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 1000,
+                "FP": 20,
+                "FN": 0,
+                "TN": 98980
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.05,
+        "balanced": {
+            "matrix": {
+                "TP": 4950,
+                "FP": 50,
+                "FN": 50,
+                "TN": 94950
+            },
+            "score": {
+                "kappa_k": 0.989,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 4901,
+                "FP": 0,
+                "FN": 99,
+                "TN": 95000
+            },
+            "score": {
+                "kappa_k": 0.989,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 5000,
+                "FP": 101,
+                "FN": 0,
+                "TN": 94899
+            },
+            "score": {
+                "kappa_k": 0.989,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.999
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.1,
+        "balanced": {
+            "matrix": {
+                "TP": 9900,
+                "FP": 100,
+                "FN": 100,
+                "TN": 89900
+            },
+            "score": {
+                "kappa_k": 0.989,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 9802,
+                "FP": 0,
+                "FN": 198,
+                "TN": 90000
+            },
+            "score": {
+                "kappa_k": 0.989,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 10000,
+                "FP": 202,
+                "FN": 0,
+                "TN": 89798
+            },
+            "score": {
+                "kappa_k": 0.989,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.998
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.2,
+        "balanced": {
+            "matrix": {
+                "TP": 19800,
+                "FP": 200,
+                "FN": 200,
+                "TN": 79800
+            },
+            "score": {
+                "kappa_k": 0.987,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.998
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 19604,
+                "FP": 0,
+                "FN": 396,
+                "TN": 80000
+            },
+            "score": {
+                "kappa_k": 0.988,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 404,
+                "FN": 0,
+                "TN": 79596
+            },
+            "score": {
+                "kappa_k": 0.987,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.995
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.3,
+        "balanced": {
+            "matrix": {
+                "TP": 29700,
+                "FP": 300,
+                "FN": 300,
+                "TN": 69700
+            },
+            "score": {
+                "kappa_k": 0.986,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.996
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 29406,
+                "FP": 0,
+                "FN": 594,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.986,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 30000,
+                "FP": 606,
+                "FN": 0,
+                "TN": 69394
+            },
+            "score": {
+                "kappa_k": 0.986,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.991
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.4,
+        "balanced": {
+            "matrix": {
+                "TP": 39600,
+                "FP": 400,
+                "FN": 400,
+                "TN": 59600
+            },
+            "score": {
+                "kappa_k": 0.983,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.993
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 39208,
+                "FP": 0,
+                "FN": 792,
+                "TN": 60000
+            },
+            "score": {
+                "kappa_k": 0.983,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 808,
+                "FN": 0,
+                "TN": 59192
+            },
+            "score": {
+                "kappa_k": 0.983,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.987
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.5,
+        "balanced": {
+            "matrix": {
+                "TP": 49500,
+                "FP": 500,
+                "FN": 500,
+                "TN": 49500
+            },
+            "score": {
+                "kappa_k": 0.98,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.99
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 49010,
+                "FP": 0,
+                "FN": 990,
+                "TN": 50000
+            },
+            "score": {
+                "kappa_k": 0.98,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 50000,
+                "FP": 1010,
+                "FN": 0,
+                "TN": 48990
+            },
+            "score": {
+                "kappa_k": 0.98,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.98
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.6,
+        "balanced": {
+            "matrix": {
+                "TP": 59400,
+                "FP": 600,
+                "FN": 600,
+                "TN": 39400
+            },
+            "score": {
+                "kappa_k": 0.975,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.985
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 58812,
+                "FP": 0,
+                "FN": 1188,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.975,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 60000,
+                "FP": 1212,
+                "FN": 0,
+                "TN": 38788
+            },
+            "score": {
+                "kappa_k": 0.975,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.97
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.7,
+        "balanced": {
+            "matrix": {
+                "TP": 69300,
+                "FP": 700,
+                "FN": 700,
+                "TN": 29300
+            },
+            "score": {
+                "kappa_k": 0.967,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.977
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 68614,
+                "FP": 0,
+                "FN": 1386,
+                "TN": 30000
+            },
+            "score": {
+                "kappa_k": 0.967,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 70000,
+                "FP": 1414,
+                "FN": 0,
+                "TN": 28586
+            },
+            "score": {
+                "kappa_k": 0.966,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.953
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.8,
+        "balanced": {
+            "matrix": {
+                "TP": 79200,
+                "FP": 800,
+                "FN": 800,
+                "TN": 19200
+            },
+            "score": {
+                "kappa_k": 0.95,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.96
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 78416,
+                "FP": 0,
+                "FN": 1584,
+                "TN": 20000
+            },
+            "score": {
+                "kappa_k": 0.952,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 80000,
+                "FP": 1616,
+                "FN": 0,
+                "TN": 18384
+            },
+            "score": {
+                "kappa_k": 0.948,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.919
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.9,
+        "balanced": {
+            "matrix": {
+                "TP": 89100,
+                "FP": 900,
+                "FN": 900,
+                "TN": 9100
+            },
+            "score": {
+                "kappa_k": 0.9,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.91
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 88218,
+                "FP": 0,
+                "FN": 1782,
+                "TN": 10000
+            },
+            "score": {
+                "kappa_k": 0.908,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 90000,
+                "FP": 1818,
+                "FN": 0,
+                "TN": 8182
+            },
+            "score": {
+                "kappa_k": 0.89,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.818
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.95,
+        "balanced": {
+            "matrix": {
+                "TP": 94050,
+                "FP": 950,
+                "FN": 950,
+                "TN": 4050
+            },
+            "score": {
+                "kappa_k": 0.8,
+                "kappa_enum": "substantial",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.81
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 93119,
+                "FP": 0,
+                "FN": 1881,
+                "TN": 5000
+            },
+            "score": {
+                "kappa_k": 0.832,
+                "kappa_enum": "near_perfect",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 95000,
+                "FP": 1919,
+                "FN": 0,
+                "TN": 3081
+            },
+            "score": {
+                "kappa_k": 0.753,
+                "kappa_enum": "substantial",
+                "f1": 0.99,
+                "ppv": 0.98,
+                "recall": 1.0,
+                "specificity": 0.616
+            }
+        }
+    },
+    {
+        "f1": 0.99,
+        "prevalence": 0.99,
+        "balanced": {
+            "matrix": {
+                "TP": 98010,
+                "FP": 990,
+                "FN": 990,
+                "TN": 10
+            },
+            "score": {
+                "kappa_k": 0.0,
+                "kappa_enum": "no",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.01
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 97040,
+                "FP": 0,
+                "FN": 1960,
+                "TN": 1000
+            },
+            "score": {
+                "kappa_k": 0.498,
+                "kappa_enum": "moderate",
+                "f1": 0.99,
+                "ppv": 1.0,
+                "recall": 0.98,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 98020,
+                "FP": 1000,
+                "FN": 980,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.01,
+                "kappa_enum": "no",
+                "f1": 0.99,
+                "ppv": 0.99,
+                "recall": 0.99,
+                "specificity": 0.0
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.001,
+        "balanced": {
+            "matrix": {
+                "TP": 100,
+                "FP": 0,
+                "FN": 0,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 1.0,
+                "kappa_enum": "perfect",
+                "f1": 1.0,
+                "ppv": 1.0,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 100,
+                "FP": 0,
+                "FN": 0,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 1.0,
+                "kappa_enum": "perfect",
+                "f1": 1.0,
+                "ppv": 1.0,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 100,
+                "FP": 0,
+                "FN": 0,
+                "TN": 99900
+            },
+            "score": {
+                "kappa_k": 1.0,
+                "kappa_enum": "perfect",
+                "f1": 1.0,
+                "ppv": 1.0,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.01,
+        "balanced": {
+            "matrix": {
+                "TP": 999,
+                "FP": 1,
+                "FN": 1,
+                "TN": 98999
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 998,
+                "FP": 0,
+                "FN": 2,
+                "TN": 99000
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 1000,
+                "FP": 2,
+                "FN": 0,
+                "TN": 98998
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.05,
+        "balanced": {
+            "matrix": {
+                "TP": 4995,
+                "FP": 5,
+                "FN": 5,
+                "TN": 94995
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 4990,
+                "FP": 0,
+                "FN": 10,
+                "TN": 95000
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 5000,
+                "FP": 10,
+                "FN": 0,
+                "TN": 94990
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.1,
+        "balanced": {
+            "matrix": {
+                "TP": 9990,
+                "FP": 10,
+                "FN": 10,
+                "TN": 89990
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 9980,
+                "FP": 0,
+                "FN": 20,
+                "TN": 90000
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 10000,
+                "FP": 20,
+                "FN": 0,
+                "TN": 89980
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.2,
+        "balanced": {
+            "matrix": {
+                "TP": 19980,
+                "FP": 20,
+                "FN": 20,
+                "TN": 79980
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 19960,
+                "FP": 0,
+                "FN": 40,
+                "TN": 80000
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 20000,
+                "FP": 40,
+                "FN": 0,
+                "TN": 79960
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 1.0
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.3,
+        "balanced": {
+            "matrix": {
+                "TP": 29970,
+                "FP": 30,
+                "FN": 30,
+                "TN": 69970
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 1.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 29940,
+                "FP": 0,
+                "FN": 60,
+                "TN": 70000
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 30000,
+                "FP": 60,
+                "FN": 0,
+                "TN": 69940
+            },
+            "score": {
+                "kappa_k": 0.999,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.999
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.4,
+        "balanced": {
+            "matrix": {
+                "TP": 39960,
+                "FP": 40,
+                "FN": 40,
+                "TN": 59960
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 39920,
+                "FP": 0,
+                "FN": 80,
+                "TN": 60000
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 40000,
+                "FP": 80,
+                "FN": 0,
+                "TN": 59920
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.999
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.5,
+        "balanced": {
+            "matrix": {
+                "TP": 49950,
+                "FP": 50,
+                "FN": 50,
+                "TN": 49950
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 49900,
+                "FP": 0,
+                "FN": 100,
+                "TN": 50000
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 50000,
+                "FP": 100,
+                "FN": 0,
+                "TN": 49900
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.998
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.6,
+        "balanced": {
+            "matrix": {
+                "TP": 59940,
+                "FP": 60,
+                "FN": 60,
+                "TN": 39940
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.999
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 59880,
+                "FP": 0,
+                "FN": 120,
+                "TN": 40000
+            },
+            "score": {
+                "kappa_k": 0.998,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 60000,
+                "FP": 120,
+                "FN": 0,
+                "TN": 39880
+            },
+            "score": {
+                "kappa_k": 0.997,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.997
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.7,
+        "balanced": {
+            "matrix": {
+                "TP": 69930,
+                "FP": 70,
+                "FN": 70,
+                "TN": 29930
+            },
+            "score": {
+                "kappa_k": 0.997,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.998
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 69860,
+                "FP": 0,
+                "FN": 140,
+                "TN": 30000
+            },
+            "score": {
+                "kappa_k": 0.997,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 70000,
+                "FP": 140,
+                "FN": 0,
+                "TN": 29860
+            },
+            "score": {
+                "kappa_k": 0.997,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.995
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.8,
+        "balanced": {
+            "matrix": {
+                "TP": 79920,
+                "FP": 80,
+                "FN": 80,
+                "TN": 19920
+            },
+            "score": {
+                "kappa_k": 0.995,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.996
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 79840,
+                "FP": 0,
+                "FN": 160,
+                "TN": 20000
+            },
+            "score": {
+                "kappa_k": 0.995,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 80000,
+                "FP": 160,
+                "FN": 0,
+                "TN": 19840
+            },
+            "score": {
+                "kappa_k": 0.995,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.992
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.9,
+        "balanced": {
+            "matrix": {
+                "TP": 89910,
+                "FP": 90,
+                "FN": 90,
+                "TN": 9910
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.991
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 89820,
+                "FP": 0,
+                "FN": 180,
+                "TN": 10000
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 90000,
+                "FP": 180,
+                "FN": 0,
+                "TN": 9820
+            },
+            "score": {
+                "kappa_k": 0.99,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.982
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.95,
+        "balanced": {
+            "matrix": {
+                "TP": 94905,
+                "FP": 95,
+                "FN": 95,
+                "TN": 4905
+            },
+            "score": {
+                "kappa_k": 0.98,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.981
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 94810,
+                "FP": 0,
+                "FN": 190,
+                "TN": 5000
+            },
+            "score": {
+                "kappa_k": 0.98,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 95000,
+                "FP": 190,
+                "FN": 0,
+                "TN": 4810
+            },
+            "score": {
+                "kappa_k": 0.98,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.962
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.99,
+        "balanced": {
+            "matrix": {
+                "TP": 98901,
+                "FP": 99,
+                "FN": 99,
+                "TN": 901
+            },
+            "score": {
+                "kappa_k": 0.9,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.901
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 98802,
+                "FP": 0,
+                "FN": 198,
+                "TN": 1000
+            },
+            "score": {
+                "kappa_k": 0.909,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 99000,
+                "FP": 198,
+                "FN": 0,
+                "TN": 802
+            },
+            "score": {
+                "kappa_k": 0.889,
+                "kappa_enum": "near_perfect",
+                "f1": 0.999,
+                "ppv": 0.998,
+                "recall": 1.0,
+                "specificity": 0.802
+            }
+        }
+    },
+    {
+        "f1": 0.999,
+        "prevalence": 0.999,
+        "balanced": {
+            "matrix": {
+                "TP": 99800,
+                "FP": 100,
+                "FN": 100,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.001,
+                "kappa_enum": "no",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.0
+            }
+        },
+        "max_precision": {
+            "matrix": {
+                "TP": 99700,
+                "FP": 0,
+                "FN": 200,
+                "TN": 100
+            },
+            "score": {
+                "kappa_k": 0.499,
+                "kappa_enum": "moderate",
+                "f1": 0.999,
+                "ppv": 1.0,
+                "recall": 0.998,
+                "specificity": 1.0
+            }
+        },
+        "max_recall": {
+            "matrix": {
+                "TP": 99800,
+                "FP": 100,
+                "FN": 100,
+                "TN": 0
+            },
+            "score": {
+                "kappa_k": -0.001,
+                "kappa_enum": "no",
+                "f1": 0.999,
+                "ppv": 0.999,
+                "recall": 0.999,
+                "specificity": 0.0
+            }
+        }
+    }
+]
