@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-import kappa
+from estimator import kappa
 
 # accuracy measures are scale invariant BUT
 # NUM_SAMPLES chosen to allow for at least a small number of RARE events
