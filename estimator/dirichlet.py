@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 from typing import Sequence, Union, Optional
 
-def dirichlet_multinomial_summary(
+def multinomial_summary(
     counts_df: pd.DataFrame,
     class_cols: Sequence[str],
     alpha: Union[float, Sequence[float]] = 1.0,
