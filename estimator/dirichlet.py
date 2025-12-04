@@ -1,8 +1,8 @@
+from typing import Sequence, Union, Optional
 import numpy as np
 import pandas as pd
-from typing import Sequence, Union, Optional
 
-def multinomial_summary(
+def simulation(
     counts_df: pd.DataFrame,
     class_cols: Sequence[str],
     alpha: Union[float, Sequence[float]] = 1.0,
