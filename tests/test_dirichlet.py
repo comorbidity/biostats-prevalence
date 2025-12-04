@@ -4,14 +4,14 @@ import unittest
 
 class TestProbability(unittest.TestCase):
 
-    def test_compliance_therapeutic_trough_level(self):
+    def test_simulation_compliance_therapeutic_trough_level(self):
         df = pd.DataFrame({
             "THERAPEUTIC": [24],
             "SUPRA_THERAPEUTIC": [3],
             "SUB_THERAPEUTIC": [2],
         })
 
-        res = dirichlet.multinomial_summary(
+        res = dirichlet.simulation(
             counts_df=df,
             class_cols=["THERAPEUTIC", "SUPRA_THERAPEUTIC", "SUB_THERAPEUTIC"],
             alpha=1.0,  # flat prior
@@ -19,9 +19,4 @@ class TestProbability(unittest.TestCase):
             batch_size=25_000,  # RAM-friendly batching
             random_state=7
         )
-
         print(res.to_dict('records'))
-
-
-if __name__ == '__main__':
-    unittest.main()
